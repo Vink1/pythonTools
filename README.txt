@@ -4,3 +4,5 @@ TCP_Server 是TCP服务器端模板
 UDP_Client 是UDP客户端模板
 Vink1net 是仿netcat编写的脚本工具
 TCP_proxy 是TCP代理工具
+sniffer_ip_header_decode.py 是TCP嗅探工具，需要管理员权限，不然会报错
+sniffer_with_icmp.py 是TCP+ICMP嗅探工具，需要管理员权限

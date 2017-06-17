@@ -1,3 +1,4 @@
+#-*-coding:utf-8-*-
 import socket
 #set the TCPServer and port
 target_host = "127.0.0.1"
